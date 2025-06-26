@@ -147,7 +147,7 @@ Collision detection and grid-based logic
 
 OUTPUT
 
-Image
+![Image](https://github.com/user-attachments/assets/d0c19348-c8bf-4212-8c52-94a867a0cfb0)
 
 Object-oriented game architecture
 
